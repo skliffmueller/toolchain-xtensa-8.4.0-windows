@@ -1,0 +1,20 @@
+{
+  "name": "toolchain-xtensa",
+  "version": "8.4.0",
+  "description": "GCC Toolchain for Espressif ESP8266 Xtensa MCUs",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "espressif",
+    "esp8266"
+  ],
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espressif/crosstool-NG"
+  },
+  "system": "windows"
+}
